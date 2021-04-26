@@ -34,7 +34,7 @@ Maintained by @xxvasu ❤
                         "💬 Group", url="https://t.me/hindi_chatting_india"
                     ),
                     InlineKeyboardButton(
-                        "❓ Commands", url="https://t.me"
+                        "❓ Commands", url="https://telegra.ph/Yuki-04-26-3"
                     )
                 ],
                 [
@@ -58,7 +58,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "❓ Cmd", url="https://t.me/"
+                        "❓ Cmd", url="https://telegra.ph/Yuki-04-26-3"
                     )
                 ],    
                 [    
