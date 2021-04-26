@@ -23,12 +23,12 @@ Maintained by @xxvasu ❤
             [
                 [
                     InlineKeyboardButton(
-                        "WC Premium hours🎵", url="https://t.me/hindi_chatting_india",
+                        "WC PREMIUM HOURS🎵", url="https://t.me/hindi_chatting_india",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Owner", url="https://t.me/xxvasu"
+                        "👤 Owner", url="https://t.me/xxvasu"
                     ),
                     InlineKeyboardButton(
                         "💬 Group", url="https://t.me/hindi_chatting_india"
@@ -104,7 +104,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/LaylaList"
+                        "Any Query", url="https://t.me/Yuki_Support"
                     )
                 ]
             ]
