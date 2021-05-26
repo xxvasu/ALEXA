@@ -39,7 +39,7 @@ Maintained by @xxvasu ❤
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/AlphaMusicRobot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/ALEXA_music_robot?startgroup=true"
                     ) 
                 ]
             ]
