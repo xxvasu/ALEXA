@@ -23,7 +23,7 @@ Maintained by @xxvasu ❤
             [
                 [
                     InlineKeyboardButton(
-                        "𝗪𝗖 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗛𝗢𝗨𝗥𝗦🎵", url="https://t.me/hindi_chatting_india",
+                        "♬Ɯ៩ន០៣៩ ᖲᖰ០នន០៣ន🎵", url="https://t.me/hindi_chatting_india",
                     )
                 ],
                 [
@@ -34,7 +34,7 @@ Maintained by @xxvasu ❤
                         "💬 Group", url="https://t.me/hindi_chatting_india"
                     ),
                     InlineKeyboardButton(
-                        "❓ Commands", url="https://telegra.ph/Yuki-04-26-3"
+                        "🔊 Updates", url="https://t.me/vasuxd"
                     )
                 ],
                 [
